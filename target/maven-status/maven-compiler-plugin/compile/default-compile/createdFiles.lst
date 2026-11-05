@@ -1,0 +1,9 @@
+com\mycompany\boutique\Main.class
+user\Client.class
+user\Employe.class
+com\mycompany\boutique\Achat.class
+com\mycompany\boutique\Produit.class
+com\mycompany\boutique\ProduitAchete.class
+user\Personne.class
+com\mycompany\boutique\Categorie.class
+service\ProduitService.class
